@@ -15,7 +15,6 @@ namespace Vector
             vectorminus._y = vector1._y - vector2._y;
             vectorminus._z = vector1._z - vector2._z;
             return vectorminus;
-          //  Vector.PrintVector(vectorminus);
         }
         static public Vector AddVectors(Vector vector1, Vector vector2)
         {
@@ -24,17 +23,14 @@ namespace Vector
             AddVectors._y = vector1._y + vector2._y;
             AddVectors._z = vector1._z + vector2._z;
             return AddVectors;
-            //Vector.PrintVector(AddVectors);
         }
         static public double InternalMultiplicationVectors(Vector vector1, Vector vector2,double _angle)
         {
             double angle;
             Console.Write("pleaase enter the angle : ");
-            //_angle = double.Parse(Console.ReadLine());
             angle = (_angle * (Math.PI)) / 180;
             double vectorMultipilication = VectorSize(vector1) * VectorSize(vector2) * Math.Cos(angle);
             return vectorMultipilication;
-            //Console.WriteLine($"internal multiple is : {vectorMultipilication}");
         }
         static public Vector OuternalMultiplicationVectors(Vector vector1, Vector vector2)
         {
@@ -43,8 +39,6 @@ namespace Vector
             outmultplyvector._y = -((vector1._z * vector2._x) - (vector1._x * vector2._z));
             outmultplyvector._z = (vector1._z * vector2._y) - (vector1._y * vector2._z);
             return outmultplyvector;
-            //Console.WriteLine($"outernal multiple is : ({outmultplyvector._x},{outmultplyvector._y},{outmultplyvector._z})");
-
         }
         static public double VectorSize(Vector vector1)
         {

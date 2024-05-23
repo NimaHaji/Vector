@@ -1,14 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using AutoItX3Lib;
-using Vector;
 
 namespace Vector
 {
@@ -30,7 +22,6 @@ namespace Vector
             Vector[] vector = { vector1, vector2 };
             return vector;
         }
-        
         public void OpenGeoGebra()
         {
             System.Diagnostics.Process.Start("F:\\learning\\C#\\Vector\\GeoGebra Classic.lnk");
@@ -71,21 +62,16 @@ namespace Vector
         {
 
         }
-
         private void btnSumOption_Click(object sender, EventArgs e)
         {
             OpenGeoGebra();
-           // GoTo3D();
             SumGeoGebra();
-
         }
-
         private void btnMinusOption_Click(object sender, EventArgs e)
         {
             OpenGeoGebra();
             MinusGeoGebra();
         }
-
         private void btnMultipleOTOption_Click(object sender, EventArgs e)
         {
             OpenGeoGebra();

@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace Vector
 {
     public class Vector
-    {
-        
+    {        
         public int _x, _y, _z;
         static public void GetVectorPoints(Vector vector,string inputs)
         {
