@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
 using AutoItX3Lib;
-
 namespace Vector
 {
     public partial class frmOptions : Form

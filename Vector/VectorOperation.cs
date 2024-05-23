@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Vector
 {
     public static class VectorOperation
@@ -14,7 +9,6 @@ namespace Vector
             vectorminus._x = vector1._x - vector2._x;
             vectorminus._y = vector1._y - vector2._y;
             vectorminus._z = vector1._z - vector2._z;
-            //dadadadada
             return vectorminus;
         }
         static public Vector AddVectors(Vector vector1, Vector vector2)
