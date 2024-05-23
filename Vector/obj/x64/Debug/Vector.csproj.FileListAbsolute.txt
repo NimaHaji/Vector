@@ -1,0 +1,8 @@
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\bin\x64\Debug\Vector.exe.config
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\bin\x64\Debug\Vector.exe
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\bin\x64\Debug\Vector.pdb
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\obj\x64\Debug\Vector.txtVector1.resources
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\obj\x64\Debug\Vector.Properties.Resources.resources
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\obj\x64\Debug\Vector.csproj.GenerateResource.Cache
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\obj\x64\Debug\Vector.exe
+C:\Users\NimaHaji\Documents\Visual Studio 2015\Projects\Vector\Vector\obj\x64\Debug\Vector.pdb
