@@ -1,35 +1,12 @@
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\bin\Debug\Vector.exe.config
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\bin\Debug\Vector.exe
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\bin\Debug\Vector.pdb
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.exe
-c:\users\nimahaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.pdb
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Interop.AutoItX3Lib.dll
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.csproj.ResolveComReference.cache
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\bin\Debug\Vector.exe.manifest
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\bin\Debug\AutoItX3.dll
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.exe.manifest
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.frmMain.resources
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.Forms.InputAngleForm.resources
-C:\Users\NimaHaji\documents\visual studio 2015\Projects\Vector\Vector\obj\Debug\Vector.frmOptions.resources
 F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe.config
+F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe
+F:\learning\C#\Vector\Vector\bin\Debug\Vector.pdb
+F:\learning\C#\Vector\Vector\obj\Debug\Interop.AutoItX3Lib.dll
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.csproj.ResolveComReference.cache
-F:\learning\C#\Vector\Vector\obj\Debug\Vector.exe
-F:\learning\C#\Vector\Vector\obj\Debug\Vector.pdb
-F:\learning\C#\Vector\Vector\obj\Debug\Vector.csprojResolveAssemblyReference.cache
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.frmMain.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.frmOptions.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.Forms.InputAngleForm.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
-F:\learning\C#\Vector\Vector\obj\Debug\Interop.AutoItX3Lib.dll
-<<<<<<< HEAD
-F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe.manifest
-F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe
-F:\learning\C#\Vector\Vector\bin\Debug\Vector.pdb
-F:\learning\C#\Vector\Vector\bin\Debug\AutoItX3.dll
-F:\learning\C#\Vector\Vector\obj\Debug\Vector.exe.manifest
-=======
->>>>>>> PcEdits
+F:\learning\C#\Vector\Vector\obj\Debug\Vector.exe
+F:\learning\C#\Vector\Vector\obj\Debug\Vector.pdb

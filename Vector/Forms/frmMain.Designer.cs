@@ -162,8 +162,11 @@
             this.Controls.Add(this.btnVectorSum);
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("IRANSans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
+            this.MaximumSize = new System.Drawing.Size(500, 215);
+            this.MinimumSize = new System.Drawing.Size(500, 215);
             this.Name = "frmMain";
             this.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
