@@ -51,6 +51,16 @@ namespace Vector
             auto.Sleep(1000);
             auto.Send($"vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[0]._x},{vectors[0]._y},{vectors[0]._z}{{END}}-vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[1]._x},{vectors[1]._y},{vectors[1]._z}");
         }
+        public void OuternalMultiplationGeoGebra()
+        {
+            Vector[] vectors = GetVectorFromMainfrm();
+            Vector OuternalVector = new Vector();
+            OuternalVector = VectorOperation.OuternalMultiplicationVectors(vectors[0], vectors[1]);
+            GoTo3D();
+            auto.WinWaitActive("3D Graphics - GeoGebra", "");
+            auto.Sleep(1000);
+            auto.Send($"vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{OuternalVector._x},{OuternalVector._y},{OuternalVector._z}");
+        }
         public void GoTo3D()
         {
             auto.WinWaitActive("GeoGebra Classic", "");
@@ -74,6 +84,12 @@ namespace Vector
         {
             OpenGeoGebra();
             MinusGeoGebra();
+        }
+
+        private void btnMultipleOTOption_Click(object sender, EventArgs e)
+        {
+            OpenGeoGebra();
+            OuternalMultiplationGeoGebra();
         }
     }
 }
