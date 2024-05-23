@@ -71,7 +71,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtNumberAngle);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximumSize = new System.Drawing.Size(279, 111);
+            this.MinimumSize = new System.Drawing.Size(279, 111);
             this.Name = "InputAngleForm";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
