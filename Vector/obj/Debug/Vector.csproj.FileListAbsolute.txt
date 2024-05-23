@@ -25,8 +25,11 @@ F:\learning\C#\Vector\Vector\obj\Debug\Vector.Forms.InputAngleForm.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.Properties.Resources.resources
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.csproj.GenerateResource.Cache
 F:\learning\C#\Vector\Vector\obj\Debug\Interop.AutoItX3Lib.dll
+<<<<<<< HEAD
 F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe.manifest
 F:\learning\C#\Vector\Vector\bin\Debug\Vector.exe
 F:\learning\C#\Vector\Vector\bin\Debug\Vector.pdb
 F:\learning\C#\Vector\Vector\bin\Debug\AutoItX3.dll
 F:\learning\C#\Vector\Vector\obj\Debug\Vector.exe.manifest
+=======
+>>>>>>> PcEdits
