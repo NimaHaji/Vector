@@ -40,8 +40,8 @@ namespace Vector
             Vector[] vectors = GetVectorFromMainfrm();
             GoTo3D();
             auto.WinWaitActive("3D Graphics - GeoGebra", "");
-            //auto.Sleep(20000);
-            auto.Send($"vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[0]._x},{vectors[0]._y},{vectors[0]._z}{{END}}+vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[1]._x},{vectors[1]._y},{vectors[1]._z}");
+            auto.Sleep(2000);
+            auto.Send($"vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[0]._x},{vectors[0]._y},{vectors[0]._z}{{END}}{{+}}vector{{SHIFTDOWN}}9{{SHIFTUP}}{{SHIFTDOWN}}9{{SHIFTUP}}{vectors[1]._x},{vectors[1]._y},{vectors[1]._z}");
         }
         public void MinusGeoGebra()
         {
